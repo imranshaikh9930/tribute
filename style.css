@@ -1,0 +1,85 @@
+body{
+   }
+.Heading  h1{
+    
+    display: block;
+    font-family: Georgia, serif;;
+    text-align: center;
+    padding-top: 10px;
+    margin: 0 auto 10px;
+    width: 90%;
+    font-size: 50px;
+   color: black;
+    box-shadow: 10px 10px 15px #000;
+    background-color: rgb(93, 243, 93);
+    
+}
+.main{
+    
+}
+
+.right-section {
+   
+    margin-top: 5%;
+    
+    
+    
+    
+   }
+.right-section div {
+    text-align: center;
+    background-color: rgb(93, 243, 93);
+    width: 56%;
+    margin: 00 auto 00px;
+    border: 2px solid black;
+    
+    
+}
+
+
+#img1 {
+    border-radius: 10%;
+    width: auto;
+   height: 550px;
+    background-color:#000;
+   
+    
+    
+    
+} 
+.left-section  div {
+    border-radius: 10px;
+    margin-top: 10;
+ 
+    
+    
+}
+.content p{
+  font-size: 20px;
+  text-align: justify;
+  width: 56%;
+  margin: 00 auto 00px;
+  padding-bottom: 15px;
+  margin-top: 3%;
+  background-color: rgb(93, 243, 93);
+  border: 2px solid black;
+    
+}
+
+.player-info{
+    background-color: rgb(93, 243, 93);
+    width: 56%;
+    margin: 00 auto 00px;
+    border: 2px solid black;
+}
+.player-info div {
+    text-align: center;
+    size: 50ch;
+    
+}
+.player-info div h3  {
+    text-align: center;
+    font-size: 24px;
+}
+
+
