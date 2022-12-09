@@ -124,7 +124,7 @@ body{
 
 @media screen  and (max-width : 1400px){
     #img1{
-        width: 80%;
+        width: 50%;
         height: inherit;
     }
 
