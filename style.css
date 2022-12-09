@@ -96,3 +96,37 @@ body{
      font-family: 'IBM Plex Sans', sans-serif;
 
 }
+@media screen and (min-width : 400px) {
+    #img1{
+        width: 100%;
+        height: inherit;
+    }
+    .content p{
+  font-size: 20px;
+  text-align: justify;
+  width: 50%;
+  text-transform: capitalize;
+  margin: 00 auto 00px;
+  padding-bottom: 15px;
+  margin-top: 3%;
+  font-family: 'IBM Plex Sans', sans-serif;
+  background-color: rgb(93, 243, 93);
+  border: 2px solid black;
+    
+}
+.player-info{
+    background-color: rgb(93, 243, 93);
+    width: 50%;
+    margin: 00 auto 00px;
+    border: 2px solid black;
+}
+}
+
+@media screen  and (max-width : 1400px){
+    #img1{
+        width: 80%;
+        height: inherit;
+    }
+
+    
+}
